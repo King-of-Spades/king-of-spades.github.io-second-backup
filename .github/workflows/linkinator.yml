@@ -12,9 +12,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: JustinBeckwith/linkinator-action@v1
         with:
-          paths: ["**/*.md", "**/*.html"]
+          paths: "**/*.md"
           markdown: true
           retry: true
           verbosity: 'ERROR'
           linksToSkip: >-
-             # none yet, list by comma separation if needed
+             # none yet, list by comma separation if needed 
