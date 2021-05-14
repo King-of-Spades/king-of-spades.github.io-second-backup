@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: JustinBeckwith/linkinator-action@v1
         with:
-          paths: "**/*.md", "**/*.html"
+          paths: ["**/*.md", "**/*.html"]
           markdown: true
           retry: true
           verbosity: 'ERROR'
