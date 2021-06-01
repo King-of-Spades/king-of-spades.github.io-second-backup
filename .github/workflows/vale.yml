@@ -19,12 +19,9 @@ jobs:
           https://github.com/errata-ai/proselint/releases/latest/download/proselint.zip
           https://github.com/errata-ai/joblint/releases/latest/download/joblint.zip
           
-
         # Optional
         config: https://raw.githubusercontent.com/errata-ai/vale/master/.vale.ini
 
-        # Optional
-        files: path/to/lint
       env:
         # Required
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
