@@ -7,6 +7,7 @@ permalink: /résumé/
 ## Objective
 My greatest passion is engineering documentation. I love making technical information available to everyone.
 
+
 ### [![GitHub Logo](images/github-mark-32px.png) GitHub](https://github.com/) - Software Engineer II
 **Jan 2021 - May 2021**
 
@@ -14,6 +15,7 @@ My greatest passion is engineering documentation. I love making technical inform
 - Implement UI and Business logic for GitHub itself using Ruby on Rails/HTML
 
 [View my GitHub profile](https://github.com/King-of-Spades)
+
 
 ### [![Microsoft Logo](images/microsoft-mark-32px.png) Visual Studio App Center](https://docs.microsoft.com/appcenter/) - Docs Content Manager
 **Mar 2020 – Mar 2021**
@@ -26,7 +28,6 @@ My greatest passion is engineering documentation. I love making technical inform
 - **[API tutorial](https://hire-kent.tiny.us/ac-dist-after)** - Rewrite + Demo script of changed workflow. ([Original Version](https://hire-kent.tiny.us/ac-dist-before))
 - **[Self-service troubleshooting](https://hire-kent.tiny.us/ac-build-tshoot)** - Help users understand and fix common problems.
 - **[Sample apps (C#/Bash)](https://hire-kent.tiny.us/ac-sample-app)** - Simplify setup and testing for users. 
-
 
 
 ### [![Microsoft Logo](images/microsoft-mark-32px.png) VS App Center](https://docs.microsoft.com/appcenter/) - Senior Support Engineer
