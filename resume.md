@@ -14,7 +14,7 @@ permalink: /résumé/
 #### Mar 2020 – Mar 2021
 - Editor for an international team of product engineers, including non-native English writers.
 - Independent author of dozens of docs, (mostly troubleshooting because of my support background).
-- System-wide improvements to style-checker (Acrolinx) scores
+- System-wide improvements to style-checker scores
 - Logical reorganization of content
 - Wrote script for redirect JSON
 
